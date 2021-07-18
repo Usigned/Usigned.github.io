@@ -28,14 +28,14 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-#twitter:
-#  username: vszhub
-#  card: summary
+twitter:
+ username: qing
+ card: summary
 logo: logo.png
 social:
   name: Zhengqing Lin
   links:
-    #- https://twitter.com/usigned
+    - https://twitter.com/usigned
     - https://github.com/usigned
 google_site_verification: xxxxx
 lang: en
