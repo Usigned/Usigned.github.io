@@ -1,5 +1,6 @@
 ---
 title: 耦合和解耦
+tag: [design-pattern, code-refactor]
 ---
 
 ### 耦合
