@@ -52,6 +52,15 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: '4720e5f821d1d1e1c627'    #生成的clientID
+  clientSecret: 'de44c48519dd5ea5b88f7b73a15167f15235536a'   #同上
+  repo: Usigned.github.io    #仓库名称
+  owner: Usigned    #github用户名
+  admin: Usigned
+
 # Specify the author for blog posts
 author:
   name: Usigend
