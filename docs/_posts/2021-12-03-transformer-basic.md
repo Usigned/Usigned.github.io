@@ -1,6 +1,8 @@
 ---
 title: Transformer基本结构
 tags: transformer
+math: true
+toc: true
 ---
 
 毕设背景调研之transformer基本结构
