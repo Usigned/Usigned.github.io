@@ -1,5 +1,5 @@
 ---
-title: [shell和terminal的区别]
+title: shell和terminal的区别
 tags: [linux]
 ---
 

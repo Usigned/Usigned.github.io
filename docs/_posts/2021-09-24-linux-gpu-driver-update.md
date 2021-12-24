@@ -1,5 +1,5 @@
 ---
-title: [linux显卡驱动更新]
+title: linux显卡驱动更新
 tags: [linux]
 ---
 
