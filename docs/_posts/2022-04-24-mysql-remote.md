@@ -1,6 +1,6 @@
 ---
 title: mysql配置远程连接
-tages: [数据库]
+tags: [数据库]
 ---
 
 mysql配置远程访问
