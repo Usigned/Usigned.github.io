@@ -17,7 +17,7 @@ tags: 操作系统
 
 ## Ref
 
-[操作系统常见面试题总结 | JavaGuide](https://javaguide.cn/cs-basics/operating-system/operating-system-basic-questions-01.html#_2-2-进程有哪几种状态)
+[操作系统常见面试题总结](https://javaguide.cn/cs-basics/operating-system/operating-system-basic-questions-01.html#_2-2-进程有哪几种状态)
 
 [进程间通信IPC (InterProcess Communication) - 简书 (jianshu.com)](https://www.jianshu.com/p/c1015f5ffa74)
 
