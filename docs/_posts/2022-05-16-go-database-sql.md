@@ -173,8 +173,25 @@ func init() {
 
 > [GORM - The fantastic ORM library for Golang, aims to be developer friendly.](https://gorm.io/)
 
-### 基本用法
+1. sql生成
 
-```
-```
+   ![image-20220517173049393](https://raw.githubusercontent.com/Usigned/pic-typora/main/images/image-20220517173049393.png)
 
+   - Chain methods + Finisher Method
+   - Chain: 参数生成子句(clauses)添加到statement中
+   - Finisher: 将clauses取出编译成最终sql，执行
+     - 会检查数据库类型，来生成对应的sql
+
+2. 插件
+
+   ![image-20220517173110724](https://raw.githubusercontent.com/Usigned/pic-typora/main/images/image-20220517173110724.png)
+
+3. ConnPool
+
+   ![image-20220517173128725](https://raw.githubusercontent.com/Usigned/pic-typora/main/images/image-20220517173128725.png)
+   
+   - 实现多数据库访问
+   - 预编译sql
+
+
+4. Dialector	![image-20220517173807404](https://raw.githubusercontent.com/Usigned/pic-typora/main/images/image-20220517173807404.png)
