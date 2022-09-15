@@ -17,3 +17,7 @@ tags: [other]
 - [go runtime 简析 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/111370792)
 
 - [图解 Goroutine（译） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/473247446)
+
+## DB
+
+- [数据库连接和事务以及线程之间的关系 - 写的代码很烂 - 博客园 (cnblogs.com)](https://www.cnblogs.com/likeguang/p/16646510.html)

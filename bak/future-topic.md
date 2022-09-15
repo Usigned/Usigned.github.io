@@ -1,0 +1,2 @@
+- [ ] 异步中的future和task
+- [ ] Python class method vs static method
