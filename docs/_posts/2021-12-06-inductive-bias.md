@@ -1,6 +1,6 @@
 ---
 title: what the fuck is inductive bias
-tags: Deep Learning
+tags: [Deep-Learning]
 ---
 
 毕设调研之闲扯篇：什么是他🐎的归纳偏置(inductive bias)
