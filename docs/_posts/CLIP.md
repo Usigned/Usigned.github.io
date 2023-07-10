@@ -1,4 +1,5 @@
 ---
+title: CLIP
 date: 2023/7/10
 tag: [DL]
 ---
