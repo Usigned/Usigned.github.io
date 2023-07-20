@@ -22,6 +22,20 @@ mysql -u usrname -p pwd -h localhost -P 3306
 - `-h/--host`
 - `-P/--port` 
 
+## 执行sql脚本
+
+1. 未进入mysql命令行
+
+   ```shell
+   mysql -u usrname -p pwd -h localhost -P 3306 < path/to/script.sql
+   ```
+
+2. mysql命令行中
+
+   ```shell
+   source path/to/script.sql
+   ```
+
 # SQL Syntax
 
 ## create/drop创建table/db
