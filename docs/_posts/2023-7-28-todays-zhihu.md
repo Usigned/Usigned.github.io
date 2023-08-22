@@ -8,3 +8,7 @@ tags: [others]
 ## 2023-7-28
 
 ![zhihu](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/zhihu.png)
+
+## 2023-8-22
+
+![image-20230822150353985](/Users/qing/Library/Application%20Support/typora-user-images/image-20230822150353985.png)
