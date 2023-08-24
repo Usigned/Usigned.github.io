@@ -896,6 +896,39 @@ show create table(view) tablename-or-viewName
 
 > 详见[MySQL 数据类型](#MySQL 数据类型)
 
+# 窗口函数
+
+> [通俗易懂的学会：SQL窗口函数 (zhihu.com)](https://www.zhihu.com/tardis/bd/art/92654574)
+
+又称，OLAP函数，主要用于分析处理
+
+**应用场景**
+
+- 排名问题
+- TopN问题
+
+## Syntax
+
+> ```sql
+> <窗口函数> over (partition by <用于分组的列名> order by <用于排序的列名>)
+> ```
+
+- <窗口函数>
+
+  - 专用窗口函数
+    - `rank`：排名，n并列排名+n
+    - `dense_rank`：排名，n并列排名+1
+    - `row_number`：排名，无并列
+
+  - 聚合函数`sum/avg/count/max/min`
+    - 对每一列分别执行
+
+- 因为窗口函数是对where或者group by子句处理后的结果进行操作，所以**窗口函数原则上只能写在select子句中**。
+
+- 可以不用partition by对整个数据进行
+
+
+
 # MySQL内置函数
 
 ## 数值型

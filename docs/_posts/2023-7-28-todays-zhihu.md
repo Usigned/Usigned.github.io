@@ -11,4 +11,10 @@ tags: [others]
 
 ## 2023-8-22
 
-![image-20230822150353985](/Users/qing/Library/Application%20Support/typora-user-images/image-20230822150353985.png)
+![image-20230822150353985](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/image-20230822150353985.png)
+
+![WechatIMG7](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/WechatIMG7.jpg)
+
+## 2023-8-23
+
+![image-20230823100714021](/Users/qing/Library/Application%20Support/typora-user-images/image-20230823100714021.png)
