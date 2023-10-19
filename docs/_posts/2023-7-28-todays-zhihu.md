@@ -28,3 +28,7 @@ tags: [others]
 ## 2023-9-4
 
 ![image-20230904095449426](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/image-20230904095449426.png)
+
+## 2023年10月19日
+
+![image-20231019150131937](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesimage-20231019150131937.png)
