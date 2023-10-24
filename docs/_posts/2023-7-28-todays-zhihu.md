@@ -3,7 +3,7 @@ title: 今日知乎
 tags: [others]
 ---
 
-太无聊了，每天上班挂机刷知乎，索性记录下看到的觉得好玩的。
+知乎段子
 
 ## 2023-7-28
 
@@ -28,3 +28,7 @@ tags: [others]
 ## 2023-9-4
 
 ![image-20230904095449426](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/image-20230904095449426.png)
+
+## 2023年10月19日
+
+![image-20231019150131937](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesimage-20231019150131937.png)
