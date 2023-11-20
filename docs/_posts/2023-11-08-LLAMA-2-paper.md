@@ -1,5 +1,6 @@
 ---
 title: llama2 paper
+math: true
 tags: [LLM]
 ---
 
