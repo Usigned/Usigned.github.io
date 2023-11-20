@@ -2,6 +2,7 @@
 title: llama2 paper
 math: true
 tags: [LLM]
+toc: true
 ---
 
 
@@ -86,7 +87,7 @@ Llama2-chat是专为对话优化的llama2调优版本，其也有7B，13B和70B�
 
 **训练过程**
 
-经过2w亿个token训练后模型认为表现出饱和
+经过2w亿个token训练后模型仍未表现出饱和
 
 ![image-20231108172503562](https://cdn.jsdelivr.net/gh/Usigned/pic-typora@main/images/image-20231108172503562.png)
 
@@ -110,3 +111,28 @@ Llama2-chat是专为对话优化的llama2调优版本，其也有7B，13B和70B�
 | 34B  | 103.8wh=118y | 153.9                |
 | 70B  | 172wh = 196y | 291.42               |
 
+### 预训练模型性能评估
+
+> 使用内部的评估库，评估性能取原文和reproduce间的最高值
+
+评估内容包括4个方面：
+
+1. code
+2. Commonsense Reasoning 常识推理
+3.  World Knowledge 关于世界的知识
+
+4. Reading Comprehension 阅读理解
+5. math
+6. Popular Aggregated Benchmarks 主流的聚合指标
+
+**开源模型对比**
+
+![image-20231120153750530](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesimage-20231120153750530.png)
+
+**闭源模型对比**
+
+结论： llama2 70B的结果在部分任务上和gpt-3.5的性能相近，但在code方面还有显著差异。总而言之，llama2 70b与gpt-4、Palm-2-l还有巨大性能差距。
+
+![image-20231120153855096](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesimage-20231120153855096.png)
+
+## Fine-tuning
