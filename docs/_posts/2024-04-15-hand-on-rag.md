@@ -30,7 +30,7 @@ RAG的基本结构有哪些呢？
 
 OK，那上述这些也就是 TinyRAG 仓库的所有模块内容。
 
-![](assets/Retrieval-Augmented Generation（RAG-Learning）.png)
+![img](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesRAG-Learning.png)
 
 那接下来，让我们梳理一下 RAG 的流程是什么样的呢？
 
@@ -40,7 +40,7 @@ OK，那上述这些也就是 TinyRAG 仓库的所有模块内容。
 
 那也就是下图所示的流程，图片出处 ***[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/pdf/2312.10997.pdf)***
 
-![](assets/RAG.png)
+![RAG](https://raw.githubusercontent.com/Usigned/pic-typora/main/imagesRAG.png)
 
 ## 2. 向量化
 
