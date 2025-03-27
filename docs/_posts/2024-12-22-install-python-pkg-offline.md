@@ -1,5 +1,5 @@
 ---
-title: python离线安装三方苦
+title: python离线安装三方库
 tags: [python]
 ---
 
